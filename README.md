@@ -12,7 +12,7 @@
 
 - **原书主页**：[Alice's Adventures in a Differentiable Wonderland](https://www.sscardapane.it/alice-book/)
 - **翻译底本**：[arXiv:2404.17625v2](https://arxiv.org/abs/2404.17625v2)，2024 年 7 月 4 日修订版。
-- **语言与术语**：全文使用简体中文，技术术语优先采用中国大陆地区标准译法或学术文献中常用译法。必要时保留英文术语与缩写。
+- **语言与术语**：全文使用简体中文，技术术语优先采用中国大陆地区标准译法或学术文献中常用译法。大部分术语的译法与[《深度学习》](https://github.com/exacity/deeplearningbook-chinese)即“花书”， Ian Goodfellow、Yoshua Bengio、Aaron Courville 著）和[《动手学深度学习》](https://zh.d2l.ai/)（Aston Zhang、Zachary Lipton、Mu Li、Alex Smola 著）的中文版保持一致。必要时保留英文术语与缩写。
 - **版本范围**：译文以原书 v2 为依据，原书的后续修订与新增内容未纳入本译本。
 
 ### 授权与致谢
