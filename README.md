@@ -12,7 +12,7 @@
 
 - **原书主页**：[Alice's Adventures in a Differentiable Wonderland](https://www.sscardapane.it/alice-book/)
 - **翻译底本**：[arXiv:2404.17625v2](https://arxiv.org/abs/2404.17625v2)，2024 年 7 月 4 日修订版。
-- **语言与术语**：全文使用简体中文，技术术语优先采用中国大陆地区标准译法或学术文献中常用译法。大部分术语的译法与[《深度学习》](https://github.com/exacity/deeplearningbook-chinese)即“花书”， Ian Goodfellow、Yoshua Bengio、Aaron Courville 著）和[《动手学深度学习》](https://zh.d2l.ai/)（Aston Zhang、Zachary Lipton、Mu Li、Alex Smola 著）的中文版保持一致。必要时保留英文术语与缩写。
+- **语言与术语**：全文使用简体中文，技术术语优先采用中国大陆地区标准译法或学术文献中常用译法。大部分术语的译法与[《深度学习》](https://github.com/exacity/deeplearningbook-chinese) （即“花书”， Ian Goodfellow、Yoshua Bengio、Aaron Courville 著）和[《动手学深度学习》](https://zh.d2l.ai/)（Aston Zhang、Zachary Lipton、Mu Li、Alex Smola 著）的中文版保持一致。必要时保留英文术语与缩写。
 - **版本范围**：译文以原书 v2 为依据，原书的后续修订与新增内容未纳入本译本。
 
 ### 授权与致谢
@@ -37,7 +37,7 @@ This repository provides a Simplified Chinese PDF translation of *Alice's Advent
 
 - **Official website**: [Alice's Adventures in a Differentiable Wonderland](https://www.sscardapane.it/alice-book/)
 - **Source edition**: [arXiv:2404.17625v2](https://arxiv.org/abs/2404.17625v2), revised on July 4, 2024.
-- **Language and terminology**: The translation uses Simplified Chinese and follows standard or commonly used technical terminology in mainland China. English terms and abbreviations are retained where appropriate.
+- **Language and terminology**: The translation uses Simplified Chinese and follows standard or commonly used technical terminology in mainland China. The translation of most technical terms are consistent with the Chinese editions of  [Deep Learning](https://github.com/exacity/deeplearningbook-chinese) (by Ian Goodfellow, Yoshua Bengio and Aaron Courville) and [Dive into Deep Learning](https://zh.d2l.ai/) (by Aston Zhang, Zachary Lipton, Mu Li and Alex Smola). English terms and abbreviations are retained where appropriate.
 - **Version scope**: The translation is based on v2 of the original book. Subsequent revisions and additional material are not included.
 
 ### Permission and acknowledgments
