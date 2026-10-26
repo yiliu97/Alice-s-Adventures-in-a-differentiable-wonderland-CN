@@ -11,13 +11,13 @@
 ### 原书与翻译版本
 
 - **原书主页**：[Alice's Adventures in a Differentiable Wonderland](https://www.sscardapane.it/alice-book/)
-- **翻译底本**：[arXiv:2404.17625v2](https://arxiv.org/abs/2404.17625v2)，2024 年 7 月 4 日修订版。
+- **翻译底本**：[arXiv:2404.17625v3](https://arxiv.org/abs/2404.17625v3)，2025 年 8 月 29 日修订版。
 - **语言与术语**：全文使用简体中文，技术术语优先采用中国大陆地区标准译法或学术文献中常用译法。大部分术语的译法与[《深度学习》](https://github.com/exacity/deeplearningbook-chinese) （即“花书”， Ian Goodfellow、Yoshua Bengio、Aaron Courville 著）和[《动手学深度学习》](https://zh.d2l.ai/)（Aston Zhang、Zachary Lipton、Mu Li、Alex Smola 著）的中文版保持一致。必要时保留英文术语与缩写。
-- **版本范围**：译文以原书 v2 为依据，原书的后续修订与新增内容未纳入本译本。
+- **版本范围**：译文以原书 v3 为依据，原书的后续修订与新增内容将在后续更新中添加。
 
 ### 授权与致谢
 
-译者在开始翻译前已通过邮件取得 Simone Scardapane 的翻译许可，并获得作者提供的书稿工程。应作者要求，本译本通过 GitHub 公开发布。感谢Simone Scardapane授予翻译许可、提供源工程，并支持译本的公开传播。
+译者在开始翻译前已通过邮件取得 Simone Scardapane 的翻译许可，并获得作者提供的书稿工程。应作者要求，本译本通过 GitHub 公开发布。感谢 Simone Scardapane 授予翻译许可、提供源工程，并支持译本的公开传播。
 
 本项目由译者独立维护。欢迎读者反馈译文、术语、公式及排版问题。书中具体技术问题请联系原作者进行交流。
 
@@ -27,7 +27,7 @@
 
 原作版权归 Simone Scardapane 所有；简体中文翻译部分版权归 刘医 所有。
 
-学术引用请参见[原书 arXiv 条目](https://arxiv.org/abs/2404.17625v2)。引用本译本时，建议同时注明译者及本仓库地址。
+学术引用请参见[原书 arXiv 条目](https://arxiv.org/abs/2404.17625v3)。引用本译本时，建议同时注明译者及本仓库地址。
 
 ## English
 
@@ -36,9 +36,9 @@ This repository provides a Simplified Chinese PDF translation of *Alice's Advent
 ### Original book and translation version
 
 - **Official website**: [Alice's Adventures in a Differentiable Wonderland](https://www.sscardapane.it/alice-book/)
-- **Source edition**: [arXiv:2404.17625v2](https://arxiv.org/abs/2404.17625v2), revised on July 4, 2024.
+- **Source edition**: [arXiv:2404.17625v2](https://arxiv.org/abs/2404.17625v2), revised on August 29, 2025.
 - **Language and terminology**: The translation uses Simplified Chinese and follows standard or commonly used technical terminology in mainland China. The translation of most technical terms are consistent with the Chinese editions of  [Deep Learning](https://github.com/exacity/deeplearningbook-chinese) (by Ian Goodfellow, Yoshua Bengio and Aaron Courville) and [Dive into Deep Learning](https://zh.d2l.ai/) (by Aston Zhang, Zachary Lipton, Mu Li and Alex Smola). English terms and abbreviations are retained where appropriate.
-- **Version scope**: The translation is based on v2 of the original book. Subsequent revisions and additional material are not included.
+- **Version scope**: The translation is based on v3 of the original book. Subsequent revisions and additional material will be added in future updates.
 
 ### Permission and acknowledgments
 
@@ -52,4 +52,4 @@ The official book website states that the original work is licensed under [Creat
 
 Copyright in the original work remains with Simone Scardapane. Copyright in the Simplified Chinese translation is held by Yi Liu.
 
-For academic citations, please refer to the [original arXiv entry](https://arxiv.org/abs/2404.17625v2). When citing this translation, please also acknowledge the translator and include a link to this repository.
+For academic citations, please refer to the [original arXiv entry](https://arxiv.org/abs/2404.17625v3). When citing this translation, please also acknowledge the translator and include a link to this repository.
